@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "f6667446d7c25ea808912128ec199fba",
-    "url": "/FOOD/static/media/pic (1).f6667446.jpg"
+    "revision": "a2968af7523d319106fd3fd6ada0f7dc",
+    "url": "/FOOD/static/media/pic (2).a2968af7.jpg"
   },
   {
-    "revision": "0bf241d146635be0d2ce",
-    "url": "/FOOD/static/css/main.7c1c5650.chunk.css"
+    "revision": "12879aba7b5dcb83e2be",
+    "url": "/FOOD/static/css/main.180d0427.chunk.css"
   },
   {
-    "revision": "28096bfcf3077499e9c0",
-    "url": "/FOOD/static/js/1.28096bfc.chunk.js"
+    "revision": "5df880a492e03d69735d",
+    "url": "/FOOD/static/js/1.5df880a4.chunk.js"
   },
   {
     "revision": "a9c0bda81a959f26186c",
@@ -28,12 +28,12 @@ self.__precacheManifest = [
     "url": "/FOOD/static/media/dinnerRolls.3064b0a2.jpg"
   },
   {
-    "revision": "0bf241d146635be0d2ce",
-    "url": "/FOOD/static/js/main.0bf241d1.chunk.js"
+    "revision": "f6667446d7c25ea808912128ec199fba",
+    "url": "/FOOD/static/media/pic (1).f6667446.jpg"
   },
   {
-    "revision": "a2968af7523d319106fd3fd6ada0f7dc",
-    "url": "/FOOD/static/media/pic (2).a2968af7.jpg"
+    "revision": "12879aba7b5dcb83e2be",
+    "url": "/FOOD/static/js/main.12879aba.chunk.js"
   },
   {
     "revision": "c7afefeb3138bf6ad2c2e0c8852be3bd",
@@ -56,7 +56,11 @@ self.__precacheManifest = [
     "url": "/FOOD/static/media/pic (7).d529feff.jpg"
   },
   {
-    "revision": "31e6c5dd634965e11b2ff188b313e764",
+    "revision": "607aad1038554e5064e529b2ed069a1d",
+    "url": "/FOOD/static/media/Banana-Pudding.607aad10.jpg"
+  },
+  {
+    "revision": "839f2af2de7994ef07463d0bb2dd00ba",
     "url": "/FOOD/index.html"
   }
 ];

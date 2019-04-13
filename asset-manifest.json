@@ -1,9 +1,9 @@
 {
-  "main.css": "/FOOD/static/css/main.7c1c5650.chunk.css",
-  "main.js": "/FOOD/static/js/main.0bf241d1.chunk.js",
-  "main.js.map": "/FOOD/static/js/main.0bf241d1.chunk.js.map",
-  "static/js/1.28096bfc.chunk.js": "/FOOD/static/js/1.28096bfc.chunk.js",
-  "static/js/1.28096bfc.chunk.js.map": "/FOOD/static/js/1.28096bfc.chunk.js.map",
+  "main.css": "/FOOD/static/css/main.180d0427.chunk.css",
+  "main.js": "/FOOD/static/js/main.12879aba.chunk.js",
+  "main.js.map": "/FOOD/static/js/main.12879aba.chunk.js.map",
+  "static/js/1.5df880a4.chunk.js": "/FOOD/static/js/1.5df880a4.chunk.js",
+  "static/js/1.5df880a4.chunk.js.map": "/FOOD/static/js/1.5df880a4.chunk.js.map",
   "runtime~main.js": "/FOOD/static/js/runtime~main.a9c0bda8.js",
   "runtime~main.js.map": "/FOOD/static/js/runtime~main.a9c0bda8.js.map",
   "static/media/Code.PNG": "/FOOD/static/media/Code.ca2024c0.PNG",
@@ -15,9 +15,10 @@
   "static/media/pic (5).jpg": "/FOOD/static/media/pic (5).e9e9440c.jpg",
   "static/media/pic (6).jpg": "/FOOD/static/media/pic (6).da79552a.jpg",
   "static/media/pic (7).jpg": "/FOOD/static/media/pic (7).d529feff.jpg",
+  "static/media/Banana-Pudding.jpg": "/FOOD/static/media/Banana-Pudding.607aad10.jpg",
   "static/media/biscuit.jpeg": "/FOOD/static/media/biscuit.44941d5f.jpeg",
-  "static/css/main.7c1c5650.chunk.css.map": "/FOOD/static/css/main.7c1c5650.chunk.css.map",
+  "static/css/main.180d0427.chunk.css.map": "/FOOD/static/css/main.180d0427.chunk.css.map",
   "index.html": "/FOOD/index.html",
-  "precache-manifest.982fbbe135fe9ec9ae12b8d8ea8ff84a.js": "/FOOD/precache-manifest.982fbbe135fe9ec9ae12b8d8ea8ff84a.js",
+  "precache-manifest.530e804009b00a98f8dabeef16a19b32.js": "/FOOD/precache-manifest.530e804009b00a98f8dabeef16a19b32.js",
   "service-worker.js": "/FOOD/service-worker.js"
 }
